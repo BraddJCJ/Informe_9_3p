@@ -96,6 +96,13 @@ Circuito 3.
  ![](https://github.com/BraddJCJ/Informe_9_3p/blob/master/img/Errores.1.png)
  ![](https://github.com/BraddJCJ/Informe_9_3p/blob/master/img/Errores.2.png)
  
+ Comentarios Generales
+ 
+• Los errores del voltaje en las mediciones es demasiado pequeñas, tanto que tienden al cero, por lo que
+nosotros podemos considerar todos los resultados como correctos, al no exceder el 5 % de error.
+• Los errores de Corriente se mantienen nulos, puesto que los cálculos analíticos con los medidos o experimentales son iguales. Entonces todo estos son correctos. Al ser resultados ideales.
+• Los errores de la potencia al igual que la de los voltajes tenemos errores que tienden al cero, por lo que
+también podemos considerar todos estos cálculos son correctos al no exceder el 5 % de error
 1. Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.
  
  - Tención de alimentacion. Tención máxima permitida que puede aplicarse con seguridad al amplificador, 15V estándar.
