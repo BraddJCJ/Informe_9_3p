@@ -84,9 +84,10 @@ Circuito 3.
 
 - Los Amplificadores Operacionales son realmente útiles al momento de tomar una señal extremadamente débil y aumentar varias veces como el operacional lo permita.
 
-- En un circuito donde se tienen 2 o mas señales de entrada, estas se pueden sumar obteniendo una señal de entrada resultante.
+- En un circuito donde se tienen 2 o más señales de entrada, estas se pueden sumar obteniendo una señal de entrada resultante.
 
-- En un circuito inversor la seál de salida se desfaza aproximadamente en 180 grados.
+- En un circuito inversor la señal de salida se desfasa aproximadamente en 180 grados, mientras que en un no inversor la señal de salida tiene la misma fase de entrada.
+
 
 7.- RECOMENDACIONES:
 
