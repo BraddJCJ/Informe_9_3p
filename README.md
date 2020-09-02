@@ -88,6 +88,8 @@ Circuito 3.
 
 8.- CRONOGRAMA:
 
+ ![](https://github.com/BraddJCJ/Informe_9_3p/blob/master/img/Cronograma.9.png)
+ 
  
 9.- BIBLIOGRAFIA
  
