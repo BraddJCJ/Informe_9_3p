@@ -15,17 +15,15 @@ Fecha: 2020 - 09 - 02
 
 * General: 
 
- -Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
- 
- -Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
- 
- -Verificar las combinaciones serie y paralelo de bobinas y capacitores.
- 
- -Familiarizarse con el uso de instrumentos de medida.
+- Verificar el principio de funcionamiento de un amplificador operacional.
+
+- Analizar algunas aplicaciones básicas con el amplificador operacional.
 
 * Específico:
 
+-Implementar los circuitos utilizando amplificadores operacionales y demostrar su funcionamiento mediante el osciloscopio.
 
+-Determinar y analisar la relación entre las señales de entrada y salida en cada uno de los circuitos.
 
 3.- MARCO TEORICO:
 
