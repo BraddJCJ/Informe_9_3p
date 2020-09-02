@@ -80,6 +80,13 @@ Circuito 3.
 
 6.- CONCLUSIONES:
 
+- Los amplificadores operacionales tienen diferentes configuraciones que se adaptan a nuestras necesidades en el circuito.
+
+- Los Amplificadores Operacionales son realmente útiles al momento de tomar una señal extremadamente débil y aumentar varias veces como el operacional lo permita.
+
+- En un circuito donde se tienen 2 o mas señales de entrada, estas se pueden sumar obteniendo una señal de entrada resultante.
+
+- En un circuito inversor la seál de salida se desfaza aproximadamente en 180 grados.
 
 7.- RECOMENDACIONES:
 
