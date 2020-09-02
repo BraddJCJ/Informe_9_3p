@@ -93,6 +93,9 @@ Circuito 3.
 
  10.-ANEXOS:
  
+ ![](https://github.com/BraddJCJ/Informe_9_3p/blob/master/img/Errores.1.png)
+ ![](https://github.com/BraddJCJ/Informe_9_3p/blob/master/img/Errores.2.png)
+ 
 1. Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.
  
  - Tención de alimentacion. Tención máxima permitida que puede aplicarse con seguridad al amplificador, 15V estándar.
