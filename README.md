@@ -58,14 +58,17 @@ En los amplificadores operacionales se cumplen algunas condiciones:
 Circuito 1.
 
 ![](https://github.com/BraddJCJ/Informe_9_3p/blob/master/img/cir1.PNG)
+![](https://github.com/BraddJCJ/Informe_9_3p/blob/master/img/Circ1_AO.png)
 
 Circuito 2.
 
 ![](https://github.com/BraddJCJ/Informe_9_3p/blob/master/img/cir2.PNG)
+![](https://github.com/BraddJCJ/Informe_9_3p/blob/master/img/Circ2_AO.png)
 
 Circuito 3.
 
 ![](https://github.com/BraddJCJ/Informe_9_3p/blob/master/img/cir3.png)
+![](https://github.com/BraddJCJ/Informe_9_3p/blob/master/img/Circ3_AO.png)
 
 5.- LISTA DE COMPONENTES:
 
