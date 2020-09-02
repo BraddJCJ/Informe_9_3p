@@ -81,7 +81,11 @@ Circuito 3.
 
 7.- RECOMENDACIONES:
 
+- Al momento de implementar el circuito en el simulador tener presente el tipo de componente a usar, ya que si se usa un componente no adecuado la simulación se ejecutará con errores o simplemente no se ejecutará.
 
+- Para poder visualizar mejor las características del voltaje de salida es recomendado analizar junto a este el voltaje de entrada por medio del osciloscopio, de esta manera se visualizará mejor como se ha desfasado la energía.
+
+- Tener especial atención a que el circuito sea implementado de la manera más ordenada ya que al tener varias componentes y terminales juntas, si no se tiene orden no se podrán diferenciar las conexiones.
 
 8.- CRONOGRAMA:
 
