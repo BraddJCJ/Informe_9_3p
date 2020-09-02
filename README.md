@@ -81,10 +81,9 @@ Circuito 3.
 
 7.- RECOMENDACIONES:
 
-- Se debe tener en cuenta que existen diferentes modelos del mismo amplificador operacional, lo cual es mas dependiente del simulador que nosotros utilicemos. Por lo que debemos basarnos en el documento de la practica para evitar confuciones.
+-	Se debe tener en cuenta que existen diferentes modelos del mismo amplificador operacional, lo cual es más dependiente del simulador que nosotros utilicemos. Por lo que debemos basarnos en el documento de la práctica para evitar confusiones.
 
-- La polarización en los conectores adecuados del amplificador son muy importantes, puesto que si no es polarizado adecuadamente existira un error al momento de jecutar la simulación.
-
+-	La polarización en los conectores adecuados del amplificador es muy importantes, puesto que si no es polarizado adecuadamente existirá un error al momento de ejecutar la simulación.
 
 8.- CRONOGRAMA:
 
