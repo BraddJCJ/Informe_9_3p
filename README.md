@@ -14,9 +14,9 @@ Fecha: 2020 - 09 - 02
 
 * General: 
 
-- Verificar el principio de funcionamiento de un amplificador operacional.
+-Verificar el principio de funcionamiento de un amplificador operacional.
 
-- Analizar algunas aplicaciones básicas con el amplificador operacional.
+-Analizar algunas aplicaciones básicas con el amplificador operacional.
 
 
 * Específico:
