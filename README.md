@@ -88,6 +88,7 @@ Circuito 3.
 
 - En un circuito inversor la señal de salida se desfasa aproximadamente en 180 grados, mientras que en un no inversor la señal de salida tiene la misma fase de entrada.
 
+- Los circuitos básicos para amplificadores operacionales cumplen con los parámetros establecidos teóricamente, teniendo como consecuencia, un buen amplificador operacional.
 
 7.- RECOMENDACIONES:
 
