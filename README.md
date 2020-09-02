@@ -59,11 +59,11 @@ Circuito 1.
 
 Circuito 2.
 
-![](https://github.com/BraddJCJ/Informe_9_3p/blob/master/img/cir1.PNG)
+![](https://github.com/BraddJCJ/Informe_9_3p/blob/master/img/cir2.PNG)
 
 Circuito 3.
 
-![](https://github.com/BraddJCJ/Informe_9_3p/blob/master/img/cir1.PNG)
+![](https://github.com/BraddJCJ/Informe_9_3p/blob/master/img/cir3.PNG)
 
 5.- LISTA DE COMPONENTES:
 
