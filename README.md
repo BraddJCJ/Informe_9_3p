@@ -10,6 +10,8 @@ Fecha: 2020 - 09 - 02
 
 1.- PLANTEAMIENTO DEL PROBLEMA:
 
+¿Cómo afecta la disposición de los distintos elementos del circuito respecto al voltaje de salida proporcionado por el amplificador operacional? ¿Qué factores limitan el funcionamiento de un amplificador operacional dentro de un circuito? 
+
 2.- OBJETIVOS:
 
 * General: 
