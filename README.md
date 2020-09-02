@@ -10,7 +10,6 @@ Fecha: 2020 - 09 - 02
 
 1.- PLANTEAMIENTO DEL PROBLEMA:
 
-
 2.- OBJETIVOS:
 
 * General: 
@@ -19,11 +18,17 @@ Fecha: 2020 - 09 - 02
 
 - Analizar algunas aplicaciones básicas con el amplificador operacional.
 
+
 * Específico:
 
 -Implementar los circuitos utilizando amplificadores operacionales y demostrar su funcionamiento mediante el osciloscopio.
 
 -Determinar y analisar la relación entre las señales de entrada y salida en cada uno de los circuitos.
+
+-Conocer los distintos parámetros técnicos que deben ser considerados para el uso de los AO.
+
+-Investigar acerca de las distintas aplicaciones de los AO y analizar las características de los distintos AO que se encuentran en el mercado.
+
 
 3.- MARCO TEORICO:
 
