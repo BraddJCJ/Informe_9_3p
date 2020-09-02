@@ -47,8 +47,15 @@ En los amplificadores operacionales se cumplen algunas condiciones:
 
 5.- LISTA DE COMPONENTES:
 
+- Generador de señales
+- Fuente DC.
+- Osciloscopio.
+- Protoboard
+- Multímetro
+- Cables conductores
+- Resistencias, capacitores
+- Amplificadores operacionales. 
 
- 
 6.- CONCLUSIONES:
 
 
